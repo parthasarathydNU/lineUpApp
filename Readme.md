@@ -16,3 +16,7 @@
 - Allow users to change the stroke thickness
 - Allow users to change stroke colors and add fills to the shapes
 - Option to save and load layout diagrams
+
+## Sample Screenshot
+
+![Sample Screenshot](./SampleScreenshot.png)
